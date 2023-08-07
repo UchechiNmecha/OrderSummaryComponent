@@ -36,7 +36,7 @@ body {
   border-radius: 1.8rem;
   height: fit-content;
   overflow: hidden;
-  margin: 0.4rem;
+  margin: 0.8rem;
 
   display: grid;
   grid-template-rows: 1fr 2fr;
