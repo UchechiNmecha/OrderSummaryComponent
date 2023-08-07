@@ -1,0 +1,11 @@
+@media (max-width: 37.5em) {
+  .order-summary {
+    background-image: url(../images/pattern-background-mobile.svg);
+  }
+}
+
+@media (max-width: 23.125em) {
+  html {
+    font-size: 56.25%;
+  }
+}
